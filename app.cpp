@@ -393,6 +393,7 @@ void TheLast2digits(){
 //===================== Z. Hard Compare =====================//
 
 void HardCompare(){
+
   long long A , B ,C , D;
   cin >> A >> B >> C >> D;
   if(B * log(A) > D * log(C)){
@@ -400,4 +401,20 @@ void HardCompare(){
   }else{
     cout << "NO";
   }
+}
+
+int main(){
+
+  // sayHello();
+  //BasicDataTypes();
+  // SimpleCalculator();
+  //Difference();
+  // AreaofACircle();
+  //DigitsSummation();
+  SummationFrom1ToN();
+
+
+
+
+  return 0;
 }
