@@ -405,16 +405,32 @@ void HardCompare(){
 
 int main(){
 
-  // sayHello();
-  //BasicDataTypes();
-  // SimpleCalculator();
-  //Difference();
-  // AreaofACircle();
-  //DigitsSummation();
-  SummationFrom1ToN();
-
-
-
+  // sayHello();                             A
+  //BasicDataTypes();                        B
+  // SimpleCalculator();                     C
+  //Difference();                            D
+  // AreaofACircle();                        E
+  //DigitsSummation();                       F
+  // SummationFrom1ToN();                    G
+  //TwoNumbers();                            H
+  // WelcomeForYouWithConditions();          I
+  //Multiples();                             J
+  // MaxAndMin();                            K
+  // TheBrothers();                          L
+  // CapitalOrSmallOrDigit();                M
+  // Char();                                 N
+  // Calculator();                           O
+  //FirstDigit();                            P
+  // CoordinatesOfAPoint();                  Q
+  // AgeInDays();                            R
+  // Interval();                             S
+  // SortNumbers();                          T
+  // FloatOrInt();                           U
+  // Comparison();                           V
+  // MathematicalExpression();               W
+  // TwoIntervals();                         X
+  // TheLast2digits();                       Y
+  // HardCompare();                          Z
 
   return 0;
 }
